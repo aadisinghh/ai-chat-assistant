@@ -1,0 +1,7 @@
+{
+  "name": "AI Chat Assistant",
+  "description": "A feature-rich AI chat assistant powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
